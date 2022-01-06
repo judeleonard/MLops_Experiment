@@ -15,5 +15,8 @@ This is my first Mlops experiment using the Iris dataset
 
 ![](https://github.com/judeleonard/MLops_Experiment/blob/main/images/Screenshot%20(12).png)
 
+experiment status
+![](https://github.com/judeleonard/MLops_Experiment/blob/main/images/Screenshot%20(16).png)
+
 #### Experiement flow
 ![](https://github.com/judeleonard/MLops_Experiment/blob/main/images/Screen%20Shot%202021-08-31%20at%202.26.39%20PM.png)
