@@ -11,7 +11,7 @@ This is my first Mlops experiment using the Iris dataset
 
 ## Results:
 
-#### Minikube dashboard for tracking the model parameters for every train runtime
+#### Minikube dashboard for tracking the model parameters and model accuracies for every train runtime
 
 ![](https://github.com/judeleonard/MLops_Experiment/blob/main/images/Screenshot%20(2).png)
 
